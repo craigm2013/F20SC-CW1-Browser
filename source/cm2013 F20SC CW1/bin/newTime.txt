@@ -1,0 +1,6 @@
+24/10/2022 00:00:00
+Blank webpage is displayed when you open a link in a new tab in Internet Explorer 11
+https://support.microsoft.com/en-us/topic/blank-webpage-is-displayed-when-you-open-a-link-in-a-new-tab-in-internet-explorer-11-0624ef28-c748-d4f7-5d73-2723032fed7e
+24/10/2022 00:00:00
+HTTP STATUS CODE TEST: 200 OK
+http://status.savanttools.com/?code=200%20OK

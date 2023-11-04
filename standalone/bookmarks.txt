@@ -1,0 +1,6 @@
+C# Properties
+https://www.w3schools.com/cs/cs_properties.php
+hello
+https://www.hw.ac.uk
+C# Properties (Get and Set)
+https://www.w3schools.com/cs/cs_properties.php

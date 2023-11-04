@@ -1,0 +1,9 @@
+https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.doubleclick?view=windowsdesktop-6.0
+https://httpstat.us/200
+https://httpstat.us/200
+https://httpstat.us/200
+https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.doubleclick?view=windowsdesktop-6.0
+https://google.com
+http://www.blankwebsite.com/
+https://httpstat.us/403
+https://httpstat.us/404

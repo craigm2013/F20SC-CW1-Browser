@@ -1,0 +1,14 @@
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\bin\Debug\cm2013 F20SC CW1.exe.config
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\bin\Debug\cm2013 F20SC CW1.exe
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\bin\Debug\cm2013 F20SC CW1.pdb
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.csproj.AssemblyReference.cache
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013_F20SC_CW1.Form1.resources
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013_F20SC_CW1.Properties.Resources.resources
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.csproj.GenerateResource.cache
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.csproj.CoreCompileInputs.cache
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.exe
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.pdb
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\bin\Debug\cm2013 F20SC CW1.exe.manifest
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\bin\Debug\cm2013 F20SC CW1.application
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.exe.manifest
+C:\Users\elsor\OneDrive - Heriot-Watt University\YEAR 4\F20IS\CW1\cm2013 F20SC CW1\cm2013 F20SC CW1\obj\Debug\cm2013 F20SC CW1.application
